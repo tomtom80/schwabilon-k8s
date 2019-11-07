@@ -6,8 +6,8 @@ Creating a cheap alternative bare-metal kubernetes cluster with persistent stora
 [Installation](#installation)  
 
 
-<a name="hardware" />
 # My hardware setup
+<a name="hardware" ></a>
 I wanted to experiment with container technology at scale at home. So I decided to explore what that’d be like, and  while I did not want to blow the budget to do this exploration, I choose to built a Raspberry Pi cluster, which have a good cost to performance ratio, and the total power consumption is low.
 
 So lets go over the hardware:
@@ -23,8 +23,9 @@ So lets go over the hardware:
 | 1       | RPI stackable CASE       | ~9€             |
 
 For a total of approximately $300 you will have a building block to create a Raspberry Pi cluster.
-<a name="installation"/>
+
 # Installation
+<a name="installation"></a>
 The following preperation steps need to be executed on all your raspberry pi's.
 
 ## Flash your micro SD-cards with HypriotOS
